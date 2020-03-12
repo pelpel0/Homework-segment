@@ -1,0 +1,15 @@
+C:\Users\CKC\source\repos\seven_segment_display\bin\Debug\seven_segment_display.exe.config
+C:\Users\CKC\source\repos\seven_segment_display\bin\Debug\seven_segment_display.exe
+C:\Users\CKC\source\repos\seven_segment_display\bin\Debug\seven_segment_display.pdb
+C:\Users\CKC\source\repos\seven_segment_display\bin\Debug\seven_segment_display.xml
+C:\Users\CKC\source\repos\seven_segment_display\obj\Debug\seven_segment_display.vbprojAssemblyReference.cache
+C:\Users\CKC\source\repos\seven_segment_display\obj\Debug\seven_segment_display.Form1.resources
+C:\Users\CKC\source\repos\seven_segment_display\obj\Debug\seven_segment_display.Resources.resources
+C:\Users\CKC\source\repos\seven_segment_display\obj\Debug\seven_segment_display.vbproj.GenerateResource.cache
+C:\Users\CKC\source\repos\seven_segment_display\obj\Debug\seven_segment_display.exe
+C:\Users\CKC\source\repos\seven_segment_display\obj\Debug\seven_segment_display.xml
+C:\Users\CKC\source\repos\seven_segment_display\obj\Debug\seven_segment_display.pdb
+C:\Users\USER\Desktop\seven_segment_display\obj\Debug\seven_segment_display.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\seven_segment_display\obj\Debug\seven_segment_display.exe
+C:\Users\USER\Desktop\seven_segment_display\obj\Debug\seven_segment_display.xml
+C:\Users\USER\Desktop\seven_segment_display\obj\Debug\seven_segment_display.pdb
